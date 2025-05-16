@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adarshh1211/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adarshh1211/LeetCode/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
