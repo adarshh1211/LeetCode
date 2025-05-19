@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarshh1211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -42,20 +43,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adarshh1211/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adarshh1211/LeetCode/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
