@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/adarshh1211/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/adarshh1211/LeetCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
