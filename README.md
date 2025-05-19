@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
