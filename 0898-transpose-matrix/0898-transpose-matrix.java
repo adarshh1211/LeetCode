@@ -3,10 +3,10 @@ class Solution {
         int m=arr.length;
         int n =arr[0].length;
         int[][] result=new int[n][m];
-        
-        for(int i =0;i<m;i++){
-            for(int j=0;j<n;j++){
-                result[j][i]=arr[i][j];
+
+        for(int i =0;i<n;i++){
+            for(int j=0;j<m;j++){
+                result[i][j]=arr[j][i];
 
             }
         }
