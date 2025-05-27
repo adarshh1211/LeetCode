@@ -1,3 +1,5 @@
+//using anotther array ans
+
 class Solution {
     public void setZeroes(int[][] arr) {
         int m =arr.length;
