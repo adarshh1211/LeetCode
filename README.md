@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adarshh1211/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adarshh1211/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adarshh1211/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/adarshh1211/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/adarshh1211/LeetCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshh1211/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/adarshh1211/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
