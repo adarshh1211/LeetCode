@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarshh1211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarshh1211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshh1211/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adarshh1211/LeetCode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/adarshh1211/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
