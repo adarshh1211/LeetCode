@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarshh1211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/adarshh1211/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
 | [3194-find-words-containing-character](https://github.com/adarshh1211/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/adarshh1211/LeetCode/tree/master/0242-valid-anagram) |
 | [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adarshh1211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/adarshh1211/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshh1211/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/adarshh1211/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
