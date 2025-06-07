@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshh1211/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/adarshh1211/LeetCode/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adarshh1211/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adarshh1211/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/adarshh1211/LeetCode/tree/master/0443-string-compression) |
 | [3194-find-words-containing-character](https://github.com/adarshh1211/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
