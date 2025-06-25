@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshh1211/LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshh1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adarshh1211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/adarshh1211/LeetCode/tree/master/0118-pascals-triangle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshh1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshh1211/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/adarshh1211/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
