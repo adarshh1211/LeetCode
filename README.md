@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/adarshh1211/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/adarshh1211/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshh1211/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/adarshh1211/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/adarshh1211/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshh1211/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/adarshh1211/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adarshh1211/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshh1211/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
