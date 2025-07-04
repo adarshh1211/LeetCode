@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshh1211/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1677-matrix-diagonal-sum](https://github.com/adarshh1211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/adarshh1211/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarshh1211/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3194-find-words-containing-character](https://github.com/adarshh1211/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/adarshh1211/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/adarshh1211/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adarshh1211/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshh1211/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarshh1211/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshh1211/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarshh1211/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
