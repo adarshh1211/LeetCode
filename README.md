@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adarshh1211/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/adarshh1211/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adarshh1211/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/adarshh1211/LeetCode/tree/master/0861-flipping-an-image) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshh1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/adarshh1211/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adarshh1211/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/adarshh1211/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/adarshh1211/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshh1211/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/adarshh1211/LeetCode/tree/master/0169-majority-element) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarshh1211/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adarshh1211/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
