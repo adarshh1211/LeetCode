@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adarshh1211/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/adarshh1211/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshh1211/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/adarshh1211/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/adarshh1211/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshh1211/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/adarshh1211/LeetCode/tree/master/0283-move-zeroes) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/adarshh1211/LeetCode/tree/master/0135-candy) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarshh1211/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Backtracking
 |  |
