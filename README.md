@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adarshh1211/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/adarshh1211/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/adarshh1211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh1211/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adarshh1211/LeetCode/tree/master/0242-valid-anagram) |
